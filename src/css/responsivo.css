@@ -78,8 +78,10 @@
   }
 
   .botoes {
+    flex-direction: row;
+    align-items: flex-end;
+    width: 100%;
     padding: 10px;
-    top: -20%;
   }
 
   .botoes .botao img {
