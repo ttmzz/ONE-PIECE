@@ -33,7 +33,7 @@
     flex-direction: row;
     align-items: flex-end;
     width: 100%;
-    padding: 30px;
+    padding: 10px;
   }
 
   .botoes .botao img {
@@ -78,8 +78,6 @@
   }
 
   .botoes {
-   flex-direction: row;
-    align-items: flex-end;
     padding: 10px;
     top: -20%;
   }
