@@ -43,7 +43,7 @@
 
 @media(max-width: 425px) {
   body {
-    overflow: scroll;
+    overflow-x: scroll;
     scrollbar-width: thin;
     scrollbar-color: blue;
   }
