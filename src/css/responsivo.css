@@ -78,13 +78,12 @@
   }
 
   .botoes {
-    padding: 20px;
+   padding: 10px;
     top: -20%;
   }
 
   .botoes .botao img {
      max-width: 50px;
-     top: 20px;
   }
 
   .botoes .botao.rb img{
