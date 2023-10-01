@@ -78,7 +78,9 @@
   }
 
   .botoes {
-   padding: 10px;
+   flex-direction: row;
+    align-items: flex-end;
+    padding: 10px;
     top: -20%;
   }
 
