@@ -84,7 +84,7 @@
 
   .botoes .botao img {
      max-width: 50px;
-     padding: 40px;
+     margin: 40px;
   }
 
   .botoes .botao.rb img{
