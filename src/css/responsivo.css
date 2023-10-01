@@ -43,9 +43,7 @@
 
 @media(max-width: 425px) {
   body {
-    overflow-x: scroll;
-    scrollbar-width: thin;
-    scrollbar-color: blue;
+    overflow: scroll;
   }
   main .personagem .img {
     height: auto;
