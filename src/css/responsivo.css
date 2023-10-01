@@ -16,11 +16,6 @@
     padding: 30px;
   }
 
-  .conteudo .logo.rb {
-    background-image: none;
-
- }
-
   .conteudo .nome-personagem {
     font-size: 36px;
   }
@@ -47,6 +42,10 @@
 }
 
 @media(max-width: 425px) {
+  body {
+    scrollbar-width: thin;
+    scrollbar-color: red;
+  }
   main .personagem .img {
     height: auto;
   }
