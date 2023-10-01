@@ -47,6 +47,9 @@
 }
 
 @media(max-width: 425px) {
+  main {
+    height: 100vh;
+  }
   main .personagem .img {
     height: auto;
   }
